@@ -3,12 +3,6 @@
     public enum Shipping_Type { pending = 1, processed = 2, shipped = 3, delivered = 4};
     public class tokoOnline
     {
-        private string v1;
-        private string v2;
-        private int v3;
-        private string v4;
-        private string v5;
-        private Shipping_Type delivered;
 
         public String Customer_name { get; set; }
         public String product_name { get; set; }

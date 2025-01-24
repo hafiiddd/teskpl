@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tesKPL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c1435a190f85d4a5b87e1a1c9fee1e1f1bd094b")]
 [assembly: System.Reflection.AssemblyProductAttribute("tesKPL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tesKPL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
